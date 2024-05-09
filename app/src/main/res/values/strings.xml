@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoApp</string>
+    <string name="single_selection">Single selection</string>
+    <string name="multiple_selection">Multiple selection</string>
+    <string name="pick">Pick</string>
+    <string name="title_activity_full_screen">FullScreenActivity</string>
+</resources>
